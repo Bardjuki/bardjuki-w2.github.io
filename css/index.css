@@ -1,0 +1,15 @@
+
+
+#info1{
+    font-size: 16px;
+    font-family: 'Calibri, serif';
+}
+ul, li{
+    padding: 5rem;
+}
+p{
+    background-color: rgb(150, 89, 10) !important;
+    line-height: 22.4px;
+    letter-spacing: 0.4px;
+    padding-left: 0;
+}
